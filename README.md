@@ -2,13 +2,9 @@
 
 Hi, I'm Nivindu and Welcome to my Github Profile!!
 
-I’m a Software Engineering student at McMaster University passionate about building intelligent, real-time systems that merge AI, robotics, and software engineering. My work focuses on creating scalable, interactive platforms from digital twins for robotic arms and AI-driven health assistants to real-time meeting analysis systems powered by LLMs and speech recognition.
+I’m a Software Engineering student at McMaster University interested in software, AI, and real-time systems. I enjoy building projects across robotics, automation, full-stack development, and intelligent applications.
 
-I lead software initiatives that integrate computer vision, embedded systems, and backend automation. I enjoy working at the intersection of hardware and intelligence connecting sensors, algorithms, and visualization to build smarter, more autonomous systems.
-
-Beyond technical execution, I have an entrepreneurial mindset, having built and marketed my own digital ventures that leverage cutting-edge AI and automation tools to help businesses grow. I thrive in collaborative, fast-paced environments where I can turn complex engineering challenges into impactful, human-centered solutions.
-
-Always curious, always building and always looking for opportunities to create technology that learns, adapts, and makes a difference
+I like creating systems that connect hardware, algorithms, and clean interfaces — and I’m always learning, experimenting, and building new things.
 
 ## Information
 
